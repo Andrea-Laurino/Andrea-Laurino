@@ -1,7 +1,9 @@
 <h1 align="center"> Hola, Soy Andrea Laurino 👩‍💻 </h1>
 <h2 align="center"> Frontend Developer  </h3>
 
-<img align="center" width="400" height="200" src="logo andrea.png">
+<div align="center"> 
+<img  width="400" height="200" src="logo andrea.png">
+</div>
 
 <div align="center">
 
