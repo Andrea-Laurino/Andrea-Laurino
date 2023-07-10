@@ -1,6 +1,8 @@
 <h1 align="center"> Hola, Soy Andrea Laurino 👩‍💻 </h1>
 <h2 align="center"> Frontend Developer  </h3>
 
+<img align="center" width="400" height="200" src="logo andrea.png">
+
 <div align="center">
 
 <a href="">[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-laurino/)</a>
@@ -11,11 +13,13 @@
 ### <p>Sobre Mi</p>
 
 <p>
-🌱 Lista para trabajar como Frontend Developer.
+🌱 En constante búsqueda de nuevos horizontes en mi carrera profesional. Lista para trabajar como Frontend Developer. 
   
 🤓 Entusiasta del aprendizaje en áreas como la tecnología, las finanzas y el inglés.
 
-📫 ¡Vamos a trabajar juntos! Puedes contactarme aquí: m.agustina.cassi@gmail.com
+📖 Estudiante de Full Stack Dev enfocada en ampliar mis conocimientos en el desarrollo backend.
+
+📫 ¡Vamos a trabajar juntos! Puedes contactarme aquí: andreajlaurino@gmail.com
 
 </p>
 
@@ -35,9 +39,9 @@
 <p>Frontend libraries & others</p>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white")
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p>Backend</p>
