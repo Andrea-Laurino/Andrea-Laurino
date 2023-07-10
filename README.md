@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Andrea Laurino 👩‍💻 </h1>
+<h1 align="center"> Hola, Soy Andrea Laurino 👩‍💻 </h1>
 <h2 align="center"> Frontend Developer  </h3>
 
 <div align="center">
