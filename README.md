@@ -2,7 +2,7 @@
 <h2 align="center"> Frontend Developer  </h3>
 
 <div align="center"> 
-<img  width="300" height="100" src="logo andrea.png">
+<img  width="300" height="150" src="logo andrea.png">
 </div>
 
 <div align="center">
