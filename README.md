@@ -2,7 +2,7 @@
 <h2 align="center"> Frontend Developer  </h3>
 
 <div align="center"> 
-<img  width="400" height="200" src="logo andrea.png">
+<img  width="300" height="100" src="logo andrea.png">
 </div>
 
 <div align="center">
@@ -35,8 +35,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next](https://img.shields.io/badge/next.js-0e0b0b?style=for-the-badge&logo=next.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%252320232a.svg?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
+![Angular](https://img.shields.io/badge/angular-%252320232a.svg?style=for-the-badge&logo=angular&logoColor=white&color=%23B31B1B)
 
 <p>Frontend libraries & others</p>
 
@@ -45,6 +45,9 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white")
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-0e0b0b?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 <p>Backend</p>
 
