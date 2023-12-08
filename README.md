@@ -1,6 +1,5 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<<<<<<< HEAD
 <h2 align="center"> Hola Mundo, Soy Andrea Laurino 👩‍💻 </h2>
 
 <p align="center">
@@ -11,10 +10,6 @@
   <ul align="center">
     <h2 style="display: inline-block">Sobre Mi</h2>
   <ul>
-=======
-<div align="center"> 
-<img  width="300" height="150" src="logo andrea.png">
->>>>>>> 40a1af8821897356ce0e54cb30c95360c3be57bf
 </div>
 
 <p>
@@ -42,29 +37,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<<<<<<< HEAD
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-=======
-![Typescript](https://img.shields.io/badge/typescript-%252320232a.svg?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
-![Angular](https://img.shields.io/badge/angular-%252320232a.svg?style=for-the-badge&logo=angular&logoColor=white&color=%23B31B1B)
->>>>>>> 40a1af8821897356ce0e54cb30c95360c3be57bf
 
 <p>Frontend libraries & others</p>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white")
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<<<<<<< HEAD
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-=======
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next](https://img.shields.io/badge/next.js-0e0b0b?style=for-the-badge&logo=next.js&logoColor=white)
-
->>>>>>> 40a1af8821897356ce0e54cb30c95360c3be57bf
 
 </div>
 
