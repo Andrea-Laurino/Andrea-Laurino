@@ -40,7 +40,7 @@
 ![GitHub Projects](https://img.shields.io/badge/github%20projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2342A0D6.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-<hr>
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
