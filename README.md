@@ -3,7 +3,8 @@
 <h2 align="center"> Hola Mundo, Soy Andrea Laurino 👩‍💻 </h2>
 
 <p align="center">
-  <a href="https://github.com/Andrea-Laurino"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+developer;Full+Stack+MERN;MongoDB;ExpressJS;ReactJS;NodeJS"></a>
+  <a href="https://github.com/Andrea-Laurino"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Tester+QA+Manual;+Tester+Automation;+QA+Engineer">
+</a>
 </p>
 
 <div id="user-content-toc">
@@ -13,11 +14,11 @@
 </div>
 
 <p>
-🌱 En constante búsqueda de nuevos horizontes en mi carrera profesional. Lista para trabajar como Frontend Developer. 
+🌱 En constante búsqueda de nuevos horizontes en mi carrera profesional. Lista para trabajar como Tester QA Automation. 
   
 🤓 Entusiasta del aprendizaje en áreas como la tecnología, las finanzas y el inglés.
 
-📖 Recien recibida de Full Stack Dev enfocada en ampliar mis conocimientos en el desarrollo backend.
+📖 Con un profundo deseo de expandir mi experiencia en la mejora de la calidad del software.
 
 📫 ¡Vamos a trabajar juntos!
 
@@ -31,24 +32,19 @@
   <ul>
 <p> MERN </p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Cypress](https://img.shields.io/badge/cypress-%2330B5FF.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A1F44.svg?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/github%20projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2342A0D6.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<p>Frontend libraries & others</p>
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white")
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
