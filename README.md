@@ -30,7 +30,7 @@
   <ul align="center">
     <h2 style="display: inline-block">Tech Stack</h2>
   <ul>
-<p> MERN </p>
+
 
 ![Cypress](https://img.shields.io/badge/cypress-%2330B5FF.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +39,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A1F44.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/github%20projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2342A0D6.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<hr>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
